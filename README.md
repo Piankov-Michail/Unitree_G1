@@ -236,7 +236,7 @@ if __name__ == "__main__":
 ```
 <br>
 
-## Metrics (for more looking in classes needed):
+## Metrics (for more looking here needed: [https://github.com/leggedrobotics/rsl_rl/blob/main/rsl_rl/algorithms/ppo.py](https://github.com/leggedrobotics/rsl_rl/blob/main/rsl_rl/algorithms/ppo.py)):
 ### Reward Function (`exmp in /home/rendex/Downloads/IsaacLab/source/isaaclab_tasks/isaaclab_tasks/direct/anymal_c/anymal_c_env.py`)
 ```python
     def _get_rewards(self) -> torch.Tensor:
