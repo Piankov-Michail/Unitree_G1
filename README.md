@@ -234,6 +234,7 @@ if __name__ == "__main__":
     simulation_app.close()
 
 ```
+<br>
 
 ## Metrics (for more looking in classes needed):
 ### Reward Function (`exmp in /home/rendex/Downloads/IsaacLab/source/isaaclab_tasks/isaaclab_tasks/direct/anymal_c/anymal_c_env.py`)
