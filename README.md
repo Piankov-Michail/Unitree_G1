@@ -1,9 +1,11 @@
 # Unitree_G1
+<br>
 
 ## Full pipeline: 
 ### 1) Create task (with policy agents and some configurations (robotic controllers))
 ### 2) launch train.py (`exmp ./isaaclab.sh -p scripts/reinforcement_learning/rsl_rl/train.py --task Isaac-Velocity-Flat-Anymal-C-Direct-v0 --num_envs 512 --max_iterations 1000 --seed 42 --livestream 2`)
 ### 3) Get results in logs/
+<br>
 
 ## Train:
 ```python
